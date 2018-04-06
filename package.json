@@ -20,7 +20,9 @@
   "engines": {
     "node": ">=0.2.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "ws": "^5.1.1"
+  },
   "devDependencies": {
     "coffee-script": "~1.6.2"
   }
